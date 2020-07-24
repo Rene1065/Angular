@@ -1,0 +1,11 @@
+/*Estilos para los titulos*/
+h1{
+  color: #369;
+  font-style: arial,helvetica, sans-serif;
+  border: 2px solid red;
+  border-radius: 10px 10px 10px;
+}
+h2{
+  color: rgb(133, 51, 153);
+  font-style: arial,helvetica, sans-serif;
+}
